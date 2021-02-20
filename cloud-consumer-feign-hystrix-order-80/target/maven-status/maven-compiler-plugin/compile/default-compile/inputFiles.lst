@@ -1,0 +1,4 @@
+/Users/chenglinjie/Desktop/Java/cloud-2020/cloud-consumer-feign-hystrix-order-80/src/main/java/com/atguigu/springcloud/service/PaymentFallbackService.java
+/Users/chenglinjie/Desktop/Java/cloud-2020/cloud-consumer-feign-hystrix-order-80/src/main/java/com/atguigu/springcloud/service/PaymentHystrixService.java
+/Users/chenglinjie/Desktop/Java/cloud-2020/cloud-consumer-feign-hystrix-order-80/src/main/java/com/atguigu/springcloud/controller/OrderHystrixController.java
+/Users/chenglinjie/Desktop/Java/cloud-2020/cloud-consumer-feign-hystrix-order-80/src/main/java/com/atguigu/springcloud/OrderHystrixApplication80.java

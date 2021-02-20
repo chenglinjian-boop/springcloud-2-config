@@ -1,0 +1,9 @@
+/Users/chenglinjie/Desktop/Java/cloud-2020/seata-storage-service-2002/src/main/java/com/liuscoding/springcloud/alibaba/domain/Storage.java
+/Users/chenglinjie/Desktop/Java/cloud-2020/seata-storage-service-2002/src/main/java/com/liuscoding/springcloud/alibaba/config/MybatisConfig.java
+/Users/chenglinjie/Desktop/Java/cloud-2020/seata-storage-service-2002/src/main/java/com/liuscoding/springcloud/alibaba/controller/StorageController.java
+/Users/chenglinjie/Desktop/Java/cloud-2020/seata-storage-service-2002/src/main/java/com/liuscoding/springcloud/alibaba/dao/StorageDao.java
+/Users/chenglinjie/Desktop/Java/cloud-2020/seata-storage-service-2002/src/main/java/com/liuscoding/springcloud/alibaba/service/impl/StorageServiceImpl.java
+/Users/chenglinjie/Desktop/Java/cloud-2020/seata-storage-service-2002/src/main/java/com/liuscoding/springcloud/alibaba/service/StorageService.java
+/Users/chenglinjie/Desktop/Java/cloud-2020/seata-storage-service-2002/src/main/java/com/liuscoding/springcloud/alibaba/SeataStorageApplication2002.java
+/Users/chenglinjie/Desktop/Java/cloud-2020/seata-storage-service-2002/src/main/java/com/liuscoding/springcloud/alibaba/config/DataSourceProxyConfig.java
+/Users/chenglinjie/Desktop/Java/cloud-2020/seata-storage-service-2002/src/main/java/com/liuscoding/springcloud/alibaba/domain/CommonResult.java
